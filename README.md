@@ -6,7 +6,7 @@ This program is a basic example of how to write recursive functions in JavaScrip
 
 The `sum` function in `index.js` takes two integers  and uses recursion to add up all of the numbers in between them.
 
-The `index.js` function runs unit tests on the `sum` function using different values.
+The `tests.js` file runs unit tests on the `sum` function using different values.
 
 ## Running the Program
 
